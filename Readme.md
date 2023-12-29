@@ -26,7 +26,7 @@ Introducing Chamberlain, a cutting-edge AI-powered personal assistant that redef
 
 ## Installation
 
-To run this application, you need to have Python installed on your system. Follow these steps:
+To run this application, you need to have Python installed on your system. Please create a virtual environment if you think it is necessary. Follow these steps:
 
 1. Clone the repository:
 ```bash
