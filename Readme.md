@@ -30,7 +30,7 @@ To run this application, you need to have Python installed on your system. Follo
 
 1. Clone the repository:
 ```bash
-   git clone 
+   git clone https://github.com/nickShengY/chamberlain_multimodal_multiagent_chatbot.git
 ```  
 2. Install the required dependencies:
 Install the Prerequisites:  
